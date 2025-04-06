@@ -73,6 +73,3 @@ We welcome contributions! Feel free to submit issues or pull requests.
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any queries or collaborations, reach out to [Najib Wadud](mailto:najibwadud@example.com).
-
